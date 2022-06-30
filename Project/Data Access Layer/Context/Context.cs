@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Project.Models;
 
-namespace Project.DataAccessLayer.Context
+namespace Project.DataAccessLayer
 {
     public class Context:DbContext
     {
@@ -14,7 +14,7 @@ namespace Project.DataAccessLayer.Context
 
         }
 
-        public DbSet<User> user {get;set;}  =null;
+        public DbSet<User>? User {get;set;}=null;
             
         
     }

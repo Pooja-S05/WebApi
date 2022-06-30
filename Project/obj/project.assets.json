@@ -2067,11 +2067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pooja.sakthivel\\Desktop\\Project\\Project.csproj",
+      "projectUniqueName": "C:\\Users\\pooja.sakthivel\\Documents\\GitHub\\WebApi\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\pooja.sakthivel\\Desktop\\Project\\Project.csproj",
+      "projectPath": "C:\\Users\\pooja.sakthivel\\Documents\\GitHub\\WebApi\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\pooja.sakthivel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pooja.sakthivel\\Desktop\\Project\\obj\\",
+      "outputPath": "C:\\Users\\pooja.sakthivel\\Documents\\GitHub\\WebApi\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pooja.sakthivel\\AppData\\Roaming\\NuGet\\NuGet.Config"
